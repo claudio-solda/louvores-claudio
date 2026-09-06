@@ -5,18 +5,18 @@
   "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#f4f8fb",
-  "theme_color": "#1e5f8c",
+  "background_color": "#8a8880",
+  "theme_color": "#8a8880",
   "lang": "pt-BR",
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "icons/icon-192-bege.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "icons/icon-512-bege.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
